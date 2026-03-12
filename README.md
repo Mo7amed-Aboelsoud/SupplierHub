@@ -69,7 +69,7 @@ A fully automated system connecting restaurants and suppliers through intelligen
 
 1. Clone the repository:
 
-```bash
+
 git clone https://github.com/Mo7amed-Aboelsoud/SupplierHub.git
 cd SupplierHub
 

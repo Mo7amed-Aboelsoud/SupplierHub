@@ -77,7 +77,7 @@ cd SupplierHub
 
 2.Install dependencies:
 
-composer install
+   composer install
 
 3.Setup environment:
 
@@ -86,11 +86,11 @@ composer install
 
 4.Run migrations:
  
-  php artisan migrate
+   php artisan migrate
 
 5.Start the development server:
 
-  php artisan serve
+   php artisan serve
 
 6.Open your browser:
 
